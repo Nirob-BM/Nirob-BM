@@ -1,84 +1,84 @@
 <h1 align="center">Hi 👋, I'm Nirob BM</h1>
-<h3 align="center">A passionate Frontend Developer from Bangladesh 🇧🇩</h3>
+<h3 align="center">Frontend Developer | Building Scalable, Production-Ready MERN Applications</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Web+Developer;React+%2F+Tailwind+Specialist;Firebase+Auth+%2F+JWT+Learner;Love+Building+Clean+UI&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Web+Developer;React+%2F+Tailwind+Specialist;Building+Clean,+Performant+UIs;Full-Stack+MERN+Explorer&center=true&width=500&height=45">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mehedi-vai-coder&label=Profile+Visitors&color=blueviolet&style=flat" alt="visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Nirob-BM&label=Profile+Visitors&color=blueviolet&style=flat" alt="visitor badge"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## 💼 Professional Summary
 
-- 🔭 Currently building: **Full-Stack MERN Projects**
-- 🌱 Currently learning: **Next.js, TypeScript & Backend Architecture**
-- 👨‍💻 All my work: [GitHub Repositories](https://github.com/mehedi-vai-coder?tab=repositories)
-- 📫 Reach me: **nirobbm49@gmail.com**
-- 🌐 Facebook: [facebook.com/nirobbm488](https://facebook.com/nirobbm488/)
+A results-driven **Frontend Developer** based in Bangladesh, specializing in crafting highly responsive web applications with **React, TailwindCSS, and the MERN stack**. I bridge the gap between clean UI design and optimized backend architecture, ensuring seamless user experiences and production-grade code scalability.
 
----
-
-## ✨ Currently Learning
-
-- 📘 Advanced React Patterns  
-- 🧠 Backend Security (JWT, Role-Based Access)  
-- 🧩 MongoDB Aggregation  
-- 💡 Clean Code & Git Best Practices
+- 🔭 **Currently engineering:** Production-level Full-Stack MERN applications with robust state management.
+- 🌱 **Deepening Expertise:** Next.js Server Components, advanced TypeScript patterns, and high-performance database indexing.
+- 👨‍💻 **Open Source & Codebases:** Look through my active production code in my [GitHub Repositories](https://github.com/Nirob-BM?tab=repositories).
+- 📬 **Hiring & Collaboration:** Reach out directly at [nirobbm49@gmail.com](mailto:nirobbm49@gmail.com) — *open to local, remote, and contract opportunities.*
 
 ---
 
-## 🤓 Fun Fact
+## 🛠️ Technical Ecosystem
 
-> I debug faster when I blast lo-fi beats and drink cha ☕🎧  
-> Also, I name my variables like they’re alive 🐍😂
+### 💻 Frontend Architecture
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Backend & Databases
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🔧 Tools & Workflows
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🛠️ Tech Stack
-
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-grey?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
----
-
-## 📈 GitHub Stats
+## 📊 Software Engineering Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehedi-vai-coder&show_icons=true&theme=radical&border_radius=10&custom_title=Nirob's+GitHub+Stats" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nirob-BM&show_icons=true&theme=radical&border_radius=10&custom_title=Nirob's+Engineering+Stats" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi-vai-coder&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirob-BM&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+---
+
+## 📌 Featured Commercial-Grade Projects
+
+> 💡 *Tip for Recruiters: Check out these clean architectures showcasing robust state handling and API management.*
+
+* **[Project 1]** — Brief 1-sentence impact statement. *(e.g., An e-commerce dashboard with real-time analytics reducing latency by 20%.)*
+  * *Stack:* React, Node.js, MongoDB
+  * [🔗 Live Demo](https://your-live-link.com) | [💻 Source Code](https://github.com/Nirob-BM/your-repo)
+
+* **[Project 2]** — Brief 1-sentence impact statement.
+  * *Stack:* TailwindCSS, Firebase Auth, Express
+  * [🔗 Live Demo](https://your-live-link.com) | [💻 Source Code](https://github.com/Nirob-BM/your-repo)
 
 ---
 
-
-## 📌 Featured Projects
-
-
----
-
-## 🌐 Connect With Me
+## 🌐 Connect & Recruiter Portal
 
 <p align="left">
-  <a href="mailto:nirobbm49@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:nirobbm49@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.facebook.com/nirobbm488/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 </p>
 
 ---
 
 <p align="center">
-  🧠 "I write code not just to build apps — but to build impact."
+  ⚡ <em>"Clean code isn't just about making machines understand; it's about making intent crystal clear to the next developer."</em>
 </p>
