@@ -54,22 +54,16 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehedi-vai-coder&show_icons=true&theme=radical&border_radius=10&custom_title=Mehedi's+GitHub+Stats" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mehedi-vai-coder&show_icons=true&theme=radical&border_radius=10&custom_title=Nirob's+GitHub+Stats" alt="GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi-vai-coder&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehedi-vai-coder&theme=radical" />
-</p>
 
 ---
+
 
 ## 📌 Featured Projects
 
@@ -88,4 +82,3 @@
 <p align="center">
   🧠 "I write code not just to build apps — but to build impact."
 </p>
-
